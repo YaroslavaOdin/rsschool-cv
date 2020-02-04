@@ -1,1 +1,1 @@
-#  https://YaroslavaOdin.github.io/rsschool-cv/cv
+https://YaroslavaOdin.github.io/rsschool-cv/cv
