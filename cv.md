@@ -26,6 +26,6 @@ return res;
 }
 ```
 ### Education:
-BSU, faculty of Mechanics and mathematical modeling (2021)
+BSU, Faculty of Mechanics and Mathematics (2021)
 ### English
 I am learning English on courses, at the moment I have a level А2
