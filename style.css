@@ -12,10 +12,12 @@ h2, h3{
 a, pre{
   color: #DCDCDC;
 }
-nav{
-  text-align: center;
-}
 p{
   margin-left: 25px;
   font: 16px "Arial" sans-serif;
+}
+nav{
+  margin-left: 25px;
+  font: 16px "Arial" sans-serif;
+  margin-bottom: 20px;
 }
