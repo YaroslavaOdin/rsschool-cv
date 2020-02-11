@@ -1,0 +1,23 @@
+body{
+  background: #696969; 
+  color: #FFFFFF;
+}
+h1{
+  padding: 10px;
+  border: 2px solid #FFFFF0;
+}
+h2, h3{
+  margin-left: 8px;
+}
+a, pre{
+  color: #DCDCDC;
+}
+p{
+  margin-left: 25px;
+  font: 16px "Arial" sans-serif;
+}
+nav{
+  margin-left: 25px;
+  font: 16px "Arial" sans-serif;
+  margin-bottom: 20px;
+}
